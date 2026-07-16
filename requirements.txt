@@ -1,0 +1,6 @@
+gradio>=4.0
+mediapipe==0.10.21
+opencv-python-headless
+joblib
+numpy<2
+scikit-learn
