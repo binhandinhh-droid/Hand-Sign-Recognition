@@ -45,7 +45,7 @@ Dùng Docker (khuyên dùng):
 docker compose up --build
 ```
 
-M�� trình duyệt vào `http://localhost:7860`.
+Mở trình duyệt vào `http://localhost:7860`.
 
 Hoặc chạy trực tiếp bằng Python:
 
